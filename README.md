@@ -1,6 +1,5 @@
 # Resource
 DawnTown | Resource Download
-晨曦小镇 | 资源包下载
 
 DawnTown 官网:
 http://www.dawntown.net
